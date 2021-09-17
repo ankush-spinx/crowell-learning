@@ -12,7 +12,7 @@
 get_header();
 ?>
 
-<section class="cmn-banner error-pg">
+<section class="cmn-banner error-pg testassss">
         <div class="container">
           <div class="row">
             <div class="col-lg-7 order-2 order-lg-1 banner-content-sec wow fadeInUp">
