@@ -380,5 +380,3 @@ if( function_exists('acf_add_options_page') ) {
 add_image_size('guidance_size',700,610,true);
 add_image_size('team-thumb',160,160,true);
 add_image_size('case-thumb',256,222,true);
-
-?>
