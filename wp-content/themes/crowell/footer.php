@@ -10,7 +10,6 @@
  * @subpackage Twenty_Nineteen
  * @since Twenty Nineteen 1.0
  */
-
 ?>
 <?php if(!is_404()){ ?>
    <?php if(get_field('get_in_touch_title','option') && get_field('get_in_touch_heading','option')){ ?>
@@ -133,8 +132,10 @@
       </div>
     </footer>
   </div>
+
   <!-- Include Core files -->
   <script src="<?php bloginfo('template_directory');?>/js/app.js"></script>
+  
   <script>
     $(document).ready(function() {
       $('.cmn-slider-wrap').slick({
